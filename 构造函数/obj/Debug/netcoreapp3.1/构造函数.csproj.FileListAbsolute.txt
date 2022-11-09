@@ -1,0 +1,14 @@
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.exe
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.deps.json
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.runtimeconfig.json
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.runtimeconfig.dev.json
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.dll
+D:\程序\C sharp 笔记\构造函数\bin\Debug\netcoreapp3.1\构造函数.pdb
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.csproj.AssemblyReference.cache
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.GeneratedMSBuildEditorConfig.editorconfig
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.AssemblyInfoInputs.cache
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.AssemblyInfo.cs
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.csproj.CoreCompileInputs.cache
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.dll
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.pdb
+D:\程序\C sharp 笔记\构造函数\obj\Debug\netcoreapp3.1\构造函数.genruntimeconfig.cache
